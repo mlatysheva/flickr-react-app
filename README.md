@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 ## Deployed version 
 
-![https://mlatysheva.github.io/flickr-react-app/](https://mlatysheva.github.io/flickr-react-app/)
+[https://mlatysheva.github.io/flickr-react-app/](https://mlatysheva.github.io/flickr-react-app/)
 
 ## Stack used
 - Typescript
