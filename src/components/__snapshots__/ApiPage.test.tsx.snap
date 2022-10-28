@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApiPage as fragment matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="main"
+  >
+    <h1>
+      Find photos on Flickr
+    </h1>
+    <form
+      class="search"
+    >
+      <input
+        class="search-field"
+        id="search"
+        name="search"
+        placeholder="Enter keywords to search for photos"
+        type="text"
+        value=""
+      />
+      <button
+        class="search-button"
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+    <div
+      class="lds-spinner"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+</DocumentFragment>
+`;

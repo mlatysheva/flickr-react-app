@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter renders Counter component 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Counter: 0
+    </h1>
+    <button>
+      +1
+    </button>
+  </div>
+</DocumentFragment>
+`;

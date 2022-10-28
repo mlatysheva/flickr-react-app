@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApiPage as fragment matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card small-api-card"
+  >
+    <div
+      class="title-wrapper"
+    >
+      <img
+        alt="photo"
+        class="photo-image"
+        src="https://live.staticflickr.com/65535/51956937593_4f1f3594b1_t.jpg"
+      />
+      <p
+        class="title"
+      >
+        Svínafellsjökull Glacier
+      </p>
+    </div>
+    <button
+      class="api-card-link"
+    >
+      More...
+    </button>
+  </div>
+</DocumentFragment>
+`;

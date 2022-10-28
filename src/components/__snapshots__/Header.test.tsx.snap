@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders About component 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="current-page-title"
+    >
+      <span
+        class="here-text"
+      >
+        Current page: 
+      </span>
+      Home
+    </div>
+    <nav
+      class="nav"
+    >
+      <a
+        aria-current="page"
+        class="active"
+        href="/"
+      >
+        Home
+      </a>
+      <a
+        class=""
+        href="/form"
+      >
+        Form
+      </a>
+      <a
+        class=""
+        href="/api"
+      >
+        API
+      </a>
+      <a
+        class=""
+        href="/about"
+      >
+        About
+      </a>
+    </nav>
+    <div
+      class="theme-selector theme-dark"
+    />
+  </header>
+</DocumentFragment>
+`;

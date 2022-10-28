@@ -1,0 +1,5 @@
+node_modules
+dist
+coverage
+src/components/G20Data1.tsx
+src/components/G20Data.tsx

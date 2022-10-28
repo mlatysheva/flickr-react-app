@@ -1,0 +1,80 @@
+.modal {
+  position: fixed;
+  display: none;
+  z-index:1;
+  top: 0;
+  left: 0;
+  width:100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.7);
+  overflow-y: hidden;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.modal-main {
+  position:fixed;
+  z-index: 10;
+  padding: 1rem;
+  background: white;
+  width: 80%;
+  height: auto;
+  top:50%;
+  left:50%;
+  border-radius: 5px;
+  transform: translate(-50%,-50%);
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+.title-container, .main-container {
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title-container {
+  justify-content: space-between;
+}
+
+.close-modal-button {
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: xx-large;
+}
+
+.modal-title {
+  margin-left: 1rem;
+}
+
+.close-modal-button:hover {
+  background-color: midnightblue;
+  color: aliceblue;
+}
+
+.details-container {
+  margin-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.modal-details-field {
+  text-align: left;
+  font-size: larger;
+}
+
+.back-button {
+  margin-top: 2rem;
+  margin-left: 0;
+  bottom: 1.5rem;
+}
