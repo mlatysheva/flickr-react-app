@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 ## Deployed version 
 
-![](https://mlatysheva.github.io/flickr-react-app)
+![https://mlatysheva.github.io/flickr-react-app/](https://mlatysheva.github.io/flickr-react-app/)
 
 ## Stack used
 - Typescript
@@ -31,14 +31,18 @@ You will also see any lint errors in the console.
 1. `Home Page`:Render G20 countries with a search by continent option
 ![](/screenshot-countires.png)
 
-2. `Form Page` Add new candidate via React-Hook-Form with validation and display the newly added candidates:
+2. `Form Page` Add new candidate via React-Hook-Form and display the newly added candidates:
 
 ![](/screenshot-form-add-member.png)
+
+Validation of information of the candidate being added:
 ![](/screenshot-add-new-candidate-form.png)
 
 3. `API Page` Render photos from the Flickr API filtered by a search query. There are options to select how many photos per page will be displayed and how to sort the photos: most relevant, most recent, etc.
 
 ![](/screenshot-photos-api.png)
+
+Page with the details of a selected photo:
 ![](/screenshot-photo-page.png)
 
 ## Testing
